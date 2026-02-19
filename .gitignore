@@ -1,12 +1,29 @@
-# MikroC junk files
+# === MikroC (Dọn dẹp triệt để) ===
 *.asm
+*.brk
+*.bmk
+*.c.ini
+*.cfg
 *.cp
+*.dlt
 *.log
+*.lst
 *.mcl
+*.user.gui
+*.txt
+*.dic
+*.tdi
+*.dbg
+*.dct
+*.callertable.txt
+# Giữ lại file nạp .hex và file dự án .mcppi
 
-# C# / Visual Studio junk files
+# === C# / Visual Studio ===
 bin/
 obj/
 .vs/
 packages/
 *.user
+
+# === Proteus ===
+*.pdsprj.ARTORIA.*.workspace
