@@ -1,0 +1,11 @@
+# MikroC junk files
+*.asm
+*.cp
+*.log
+*.mcl
+
+# C# / Visual Studio junk files
+bin/
+obj/
+.vs/
+*.user
